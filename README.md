@@ -48,7 +48,7 @@ This new vision for Archon replaces the old one (the agenteer). Archon used to b
 
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/coleam00/archon.git
+   git clone https://github.com/RQUENTIN/archon.git
    cd archon
    ```
 
